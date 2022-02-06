@@ -1,6 +1,6 @@
 {
   "name": "@shoveller/prettier-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "prettier의 sharable config",
   "keywords": [
     "prettier"
