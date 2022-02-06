@@ -4,7 +4,7 @@
   "private": true,
   "description": "",
   "scripts": {
-    "pub": "lerna version && lerna publish",
+    "pub": "lerna version && npm publish -ws",
     "clean": "npm exec --ws -- npx rimraf node_modules && npx rimraf node_modules package-lock.json",
     "clean:i": "npm i clean && npm i -ws"
   },
