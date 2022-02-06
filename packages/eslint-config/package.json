@@ -1,5 +1,5 @@
 {
-  "name": "@shoveller/eslint-cofig",
+  "name": "@shoveller/eslint-config",
   "version": "0.0.1",
   "description": "eslint의 sharable config",
   "keywords": [
