@@ -1,0 +1,27 @@
+{
+  "name": "@shoveller/eslint-cofig",
+  "version": "0.0.0",
+  "description": "eslint의 sharable config",
+  "keywords": [
+    "eslint"
+  ],
+  "author": "shoveller <cinos81@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.10.0",
+    "eslint-plugin-functional": "^4.0.2",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jsdoc": "^37.6.3",
+    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-typescript": "^0.14.0",
+    "eslint-plugin-unused-imports": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/eslint": "^8.4.1"
+  }
+}

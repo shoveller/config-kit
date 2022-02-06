@@ -1,0 +1,25 @@
+{
+  "name": "config-kit",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "clean": "npm exec --ws -- npx rimraf node_modules && npx rimraf node_modules package-lock.json",
+    "clean:i": "npm i clean && npm i -ws"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "keywords": [
+    "eslint",
+    "prettier"
+  ],
+  "author": "cinos81@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.15",
+    "lerna": "^4.0.0"
+  },
+  "dependencies": {
+    "clean": "^4.0.2"
+  }
+}

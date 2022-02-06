@@ -1,0 +1,21 @@
+{
+  "name": "@shoveller/prettier-config",
+  "version": "0.0.0",
+  "description": "prettier의 sharable config",
+  "keywords": [
+    "prettier"
+  ],
+  "author": "shoveller <cinos81@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "prettier": "^2.5.1"
+  },
+  "devDependencies": {
+    "@types/prettier": "^2.4.3"
+  }
+}
