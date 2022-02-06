@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "",
   "scripts": {
+    "pub": "lerna publish",
     "clean": "npm exec --ws -- npx rimraf node_modules && npx rimraf node_modules package-lock.json",
     "clean:i": "npm i clean && npm i -ws"
   },
