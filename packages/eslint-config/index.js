@@ -322,10 +322,14 @@ module.exports = {
   // 허용하는 전역 변수 목록을 명시한다
   // https://eslint.org/docs/user-guide/configuring/language-options#specifying-environments
   env: {
+    es6: true,
     es2021: true,
     browser: true,
     jest: true,
     node: true,
+  },
+  parserOptions: {
+    ecmaVersion: 2017
   },
   overrides: [
     {
