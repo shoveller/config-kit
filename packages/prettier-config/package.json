@@ -1,6 +1,6 @@
 {
   "name": "@shoveller/prettier-config",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "prettier의 sharable config",
   "keywords": [
     "prettier"
@@ -11,11 +11,5 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "dependencies": {
-    "prettier": "^2.5.1"
-  },
-  "devDependencies": {
-    "@types/prettier": "^2.4.3"
   }
 }
