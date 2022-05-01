@@ -1,6 +1,6 @@
 {
   "name": "@shoveller/eslint-config",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "eslint의 sharable config",
   "keywords": [
     "eslint"
