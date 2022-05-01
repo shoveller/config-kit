@@ -318,6 +318,7 @@ module.exports = {
     "unused-imports",
     "eslint-plugin-import",
     "jsdoc",
+    "react-hooks"
   ],
   // 허용하는 전역 변수 목록을 명시한다
   // https://eslint.org/docs/user-guide/configuring/language-options#specifying-environments
