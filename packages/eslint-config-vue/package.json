@@ -1,5 +1,5 @@
 {
-  "name": "@shoveller/eslint-config",
+  "name": "@shoveller/eslint-config-vue",
   "version": "0.0.14",
   "description": "eslint의 sharable config",
   "keywords": [
