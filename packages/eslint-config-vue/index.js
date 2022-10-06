@@ -177,8 +177,6 @@ const unusedImportRules = {
 const importRules = {
   // 스스로를 import 할 수 없다
   "import/no-self-import": ["error"],
-  // dynamic import에는 반드시 chunk name이 있어야 한다
-  "import/dynamic-import-chunkname": ["error"],
   // 익명으로 default export는 할 수 없다
   "import/no-anonymous-default-export": ["error"],
   // import문 다음 1줄은 공백이어야 한다
