@@ -1,5 +1,5 @@
 {
-  "name": "@shoveller/eslint-config",
+  "name": "@shoveller/eslint-config-react",
   "version": "0.0.13",
   "description": "eslint의 sharable config",
   "keywords": [
