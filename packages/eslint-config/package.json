@@ -1,6 +1,6 @@
 {
   "name": "@shoveller/eslint-config",
-  "version": "0.0.16",
+  "version": "0.0.18",
   "description": "eslint의 sharable config",
   "keywords": [
     "eslint"
@@ -11,5 +11,20 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/eslint": "^8.4.1"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.10.0",
+    "eslint-plugin-functional": "^4.0.2",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jsdoc": "^37.6.3",
+    "eslint-plugin-react-hooks": "^4.5.0",
+    "eslint-plugin-typescript": "^0.14.0",
+    "eslint-plugin-unused-imports": "^2.0.0",
+    "eslint-plugin-react": "^7.29.4",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1"
   }
 }
