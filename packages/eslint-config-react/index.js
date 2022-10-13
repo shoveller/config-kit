@@ -59,7 +59,6 @@ module.exports = {
   parser: "@typescript-eslint/parser",
   // 기반이 되는 rule
   extends: [
-    'plugin:prettier/recommended',
     // react17 이상에 내장된 jsx-runtime의 사용을 react플러그인을 사용해 명시함
     "plugin:react/jsx-runtime",
   ],

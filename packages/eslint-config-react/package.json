@@ -1,6 +1,6 @@
 {
   "name": "@shoveller/eslint-config-react",
-  "version": "0.0.18",
+  "version": "0.0.20",
   "description": "eslint의 sharable config",
   "keywords": [
     "eslint"
@@ -23,8 +23,6 @@
     "eslint-plugin-react-hooks": "^4.5.0",
     "eslint-plugin-typescript": "^0.14.0",
     "eslint-plugin-unused-imports": "^2.0.0",
-    "eslint-plugin-react": "^7.29.4",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-prettier": "^4.2.1"
+    "eslint-plugin-react": "^7.29.4"
   }
 }

@@ -255,7 +255,6 @@ module.exports = {
   parser: "vue-eslint-parser",
   // 기반이 되는 rule
   extends: [
-    'plugin:prettier/recommended',
     // import 플러그인을 활성화함
     "plugin:import/typescript",
   ],
